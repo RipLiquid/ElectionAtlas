@@ -1,0 +1,10 @@
+# QGIS temporary / backup files
+*.qgz~
+*.qgs~
+*.qgd
+.qgis/
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini

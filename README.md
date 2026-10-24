@@ -104,3 +104,9 @@ See [`data/README.md`](data/README.md) for details.
 Election maps describe geographic voting patterns; they do not explain why voters or places changed between elections. County-level aggregates should not be interpreted as individual-level voter behaviour.
 
 The national layer intentionally uses state-level results and the Michigan analysis uses county-level results, keeping the geographic unit of the election table aligned with the mapped boundary layer.
+
+## Academic Integrity
+
+This repository contains university coursework shared for portfolio review and educational reference only. Copying, redistributing, or submitting this work as coursework is not permitted.
+
+See [ACADEMIC_INTEGRITY.md](ACADEMIC_INTEGRITY.md) for details.
